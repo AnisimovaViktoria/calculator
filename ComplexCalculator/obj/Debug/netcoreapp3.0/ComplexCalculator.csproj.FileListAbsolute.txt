@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.exe
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.deps.json
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.runtimeconfig.json
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.runtimeconfig.dev.json
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.dll
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.pdb
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.AssemblyInfo.cs
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.dll
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.pdb
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\User\source\repos\ComplexCalculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.csproj.CopyComplete
