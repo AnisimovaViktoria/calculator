@@ -17,14 +17,18 @@ namespace Calculator
 
         public ComplexNum Pow(ComplexNum num, int pow)
         {
-            var res = num;
-            --pow;
-            while (pow != 0)
+            if (pow > 0)
             {
+                var res = num;
                 --pow;
-                res = (Prod(res, num));
+                while (pow != 0)
+                {
+                    --pow;
+                    res = (Prod(res, num));
+                }
+                return res;
             }
-            return res;
+            else throw new ArithmeticException("Incorrect power");
         }
 
         public ComplexNum Div(ComplexNum num1, ComplexNum num2)

@@ -9,8 +9,8 @@ namespace CalculatorTests
         [Test]
         public void Pow_WithoutIm()
         {
-            var actual = calc.Pow(new ComplexNum(3, 0), 2);
-            var expected = new ComplexNum(9, 0);
+            var actual = calc.Pow(new ComplexNum(3, 0), 0);
+            var expected = new ComplexNum(1, 0);
             Assert.AreEqual(expected, actual);
         }
 

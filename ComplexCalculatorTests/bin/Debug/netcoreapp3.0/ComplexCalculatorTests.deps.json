@@ -1010,6 +1010,9 @@
         }
       },
       "ComplexCalculator/1.0.0": {
+        "dependencies": {
+          "NUnit": "3.12.0"
+        },
         "runtime": {
           "ComplexCalculator.dll": {}
         }
