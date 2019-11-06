@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj": {}
+    "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj": {
+    "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj",
-        "projectName": "ComplexCalculator",
-        "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj",
+        "projectUniqueName": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
+        "projectName": "ComplexCalculatorWIndow",
+        "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
         "packagesPath": "C:\\Users\\virac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\calculator\\ComplexCalculator\\obj\\",
+        "outputPath": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,12 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "dependencies": {
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,6 +53,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
