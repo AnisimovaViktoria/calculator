@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexCalculator", "ComplexCalculator\ComplexCalculator.csproj", "{64504787-F8BE-47F4-9A61-04D891DB35B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexCalculator", "ComplexCalculator\ComplexCalculator.csproj", "{64504787-F8BE-47F4-9A61-04D891DB35B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexCalculatorTests", "ComplexCalculatorTests\ComplexCalculatorTests.csproj", "{271557E9-CD46-4023-9559-A6A88C649693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexCalculatorTests", "ComplexCalculatorTests\ComplexCalculatorTests.csproj", "{271557E9-CD46-4023-9559-A6A88C649693}"
 	ProjectSection(ProjectDependencies) = postProject
 		{64504787-F8BE-47F4-9A61-04D891DB35B9} = {64504787-F8BE-47F4-9A61-04D891DB35B9}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexCalculatorWIndow", "ComplexCalculatorWIndow\ComplexCalculatorWIndow.csproj", "{A97000BC-1013-48C9-A5E7-1B7CF1CD3396}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +26,10 @@ Global
 		{271557E9-CD46-4023-9559-A6A88C649693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271557E9-CD46-4023-9559-A6A88C649693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271557E9-CD46-4023-9559-A6A88C649693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97000BC-1013-48C9-A5E7-1B7CF1CD3396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97000BC-1013-48C9-A5E7-1B7CF1CD3396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97000BC-1013-48C9-A5E7-1B7CF1CD3396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97000BC-1013-48C9-A5E7-1B7CF1CD3396}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

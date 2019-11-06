@@ -1,0 +1,17 @@
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.exe
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.deps.json
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.runtimeconfig.json
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.runtimeconfig.dev.json
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.dll
+D:\GitProjects\calculator\ComplexCalculatorWIndow\bin\Debug\netcoreapp3.0\ComplexCalculatorWIndow.pdb
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.csprojAssemblyReference.cache
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\App.g.cs
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow_MarkupCompile.cache
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow_MarkupCompile.lref
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.g.resources
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.AssemblyInfoInputs.cache
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.AssemblyInfo.cs
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.dll
+D:\GitProjects\calculator\ComplexCalculatorWIndow\obj\Debug\netcoreapp3.0\ComplexCalculatorWIndow.pdb
