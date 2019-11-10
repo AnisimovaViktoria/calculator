@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Calculator
+namespace ComplexCalculator
 {
     public class Operations
     {
@@ -14,6 +14,7 @@ namespace Calculator
             var newImaginary = num1.real * num2.imaginary + num1.imaginary * num2.real;
             return new ComplexNum(newReal, newImaginary);
         }
+
 
         public ComplexNum Pow(ComplexNum num, int pow)
         {

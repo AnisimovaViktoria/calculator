@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\calculator\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {}
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\calculator\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\calculator\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
+        "projectUniqueName": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
         "projectName": "ComplexCalculatorTests",
-        "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
-        "packagesPath": "C:\\Users\\virac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\calculator\\ComplexCalculatorTests\\obj\\",
+        "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\evluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\virac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj": {
-                "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj"
+              "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj": {
+                "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj"
               }
             }
           }
@@ -73,24 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj": {
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj",
+        "projectUniqueName": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj",
         "projectName": "ComplexCalculator",
-        "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculator\\ComplexCalculator.csproj",
-        "packagesPath": "C:\\Users\\virac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\calculator\\ComplexCalculator\\obj\\",
+        "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj",
+        "packagesPath": "C:\\Users\\evluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\virac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

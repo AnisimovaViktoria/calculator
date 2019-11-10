@@ -1,28 +1,33 @@
 ﻿using System;
-
-public class ComplexNum
+namespace ComplexCalculator
 {
-    public readonly double real;
-    public readonly double imaginary;
-
-    public ComplexNum(double real, double imaginary)
+    public class ComplexNum
     {
-        this.real = real;
-        this.imaginary = imaginary;
+        public readonly double real;
+        public readonly double imaginary;
+
+        public ComplexNum(double real, double imaginary)
+        {
+            this.real = real;
+            this.imaginary = imaginary;
+        }
+
+        override
+        public bool Equals(object num)
+        {
+            var newNum = (ComplexNum)num;
+            return newNum.real == real && newNum.imaginary == imaginary;
+        }
+
+        override
+        public int GetHashCode()
+        {
+            unchecked
+            {
+                double key = 1234567891;
+                return (int)(real * key + imaginary * key);
+            }
+        }
     }
 
-    override
-    public bool Equals(object num)
-    {
-        var newNum = (ComplexNum)num;
-        return newNum.real == real && newNum.imaginary == imaginary;
-    }
-
-    override
-    public int GetHashCode()
-    {
-        double key = 1234567891;
-        return (int)(real * key + imaginary * key);
-    }
 }
-

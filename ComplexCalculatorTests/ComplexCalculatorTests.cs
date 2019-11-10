@@ -1,10 +1,11 @@
 using NUnit.Framework;
+using ComplexCalculator;
 
 namespace CalculatorTests
 {
     public class Tests
     {
-        readonly Calculator.Operations calc = new Calculator.Operations();
+        readonly ComplexCalculator.Operations calc = new ComplexCalculator.Operations();
 
         [Test]
         public void Pow_WithoutIm()

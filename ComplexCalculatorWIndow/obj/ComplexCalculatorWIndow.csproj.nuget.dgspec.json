@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {}
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {}
   },
   "projects": {
-    "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
-        "projectName": "ComplexCalculatorWIndow",
-        "projectPath": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
-        "packagesPath": "C:\\Users\\virac\\.nuget\\packages\\",
-        "outputPath": "D:\\GitProjects\\calculator\\ComplexCalculatorWIndow\\obj\\",
+        "projectUniqueName": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
+        "projectName": "ComplexCalculatorTests",
+        "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\evluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\virac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\evluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +26,84 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj": {
+                "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
+        "projectName": "ComplexCalculatorWIndow",
+        "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorWIndow\\ComplexCalculatorWIndow.csproj",
+        "packagesPath": "C:\\Users\\evluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorWIndow\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj": {
+                "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculatorTests\\ComplexCalculatorTests.csproj"
+              },
+              "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj": {
+                "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -58,7 +132,65 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj",
+        "projectName": "ComplexCalculator",
+        "projectPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\ComplexCalculator.csproj",
+        "packagesPath": "C:\\Users\\evluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Загрузки\\calculator-master\\calculator-master\\ComplexCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

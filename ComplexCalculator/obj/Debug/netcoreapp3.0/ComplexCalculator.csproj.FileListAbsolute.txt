@@ -24,3 +24,16 @@ D:\GitProjects\calculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalcu
 D:\GitProjects\calculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.csproj.CopyComplete
 D:\GitProjects\calculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.dll
 D:\GitProjects\calculator\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.pdb
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.exe
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.deps.json
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.runtimeconfig.json
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.runtimeconfig.dev.json
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.dll
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\ComplexCalculator.pdb
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\bin\Debug\netcoreapp3.0\nunit.framework.dll
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.csprojAssemblyReference.cache
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.AssemblyInfoInputs.cache
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.AssemblyInfo.cs
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.csproj.CopyComplete
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.dll
+E:\Загрузки\calculator-master\calculator-master\ComplexCalculator\obj\Debug\netcoreapp3.0\ComplexCalculator.pdb

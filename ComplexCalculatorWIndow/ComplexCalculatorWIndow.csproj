@@ -6,4 +6,9 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ComplexCalculatorTests\ComplexCalculatorTests.csproj" />
+    <ProjectReference Include="..\ComplexCalculator\ComplexCalculator.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,7 +10,7 @@ namespace ComplexCalculator
         static void Main(string[] args)
         {
             {
-                
+                ComplexNum a = new ComplexNum(1, 2);
             }
         }
     }

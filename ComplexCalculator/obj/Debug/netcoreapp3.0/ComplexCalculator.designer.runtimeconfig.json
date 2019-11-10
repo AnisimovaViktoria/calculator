@@ -6,9 +6,8 @@
       "version": "3.0.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\virac\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\virac\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\evluc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\evluc\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
